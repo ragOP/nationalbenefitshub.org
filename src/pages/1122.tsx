@@ -426,7 +426,7 @@ export default function Abc() {
           
         
         </div>
-
+<p>G2 Licensed Agent : Jessica Johanna Rodriguez</p>
 <p>Owned and Operated By Compliance Generals LLC</p>
         {/* <p>{zipCode} </p> */}
       </div>
