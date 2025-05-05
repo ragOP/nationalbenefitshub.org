@@ -427,7 +427,7 @@ export default function Abc() {
         
         </div>
 
-<p>G2 Licensed Agent : Gregory K. Teipel</p>
+<p>Owned and Operated By Compliance Generals LLC</p>
         {/* <p>{zipCode} </p> */}
       </div>
       {/* <ToastContainer
